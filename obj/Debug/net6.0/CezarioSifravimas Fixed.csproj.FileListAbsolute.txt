@@ -1,0 +1,15 @@
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\bin\Debug\net6.0\CezarioSifravimas Fixed.exe
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\bin\Debug\net6.0\CezarioSifravimas Fixed.deps.json
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\bin\Debug\net6.0\CezarioSifravimas Fixed.runtimeconfig.json
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\bin\Debug\net6.0\CezarioSifravimas Fixed.dll
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\bin\Debug\net6.0\CezarioSifravimas Fixed.pdb
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.csproj.AssemblyReference.cache
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.AssemblyInfoInputs.cache
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.AssemblyInfo.cs
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.csproj.CoreCompileInputs.cache
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.dll
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\refint\CezarioSifravimas Fixed.dll
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.pdb
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\CezarioSifravimas Fixed.genruntimeconfig.cache
+C:\Users\kristupas\Desktop\CezarioSifravimas Fixed\obj\Debug\net6.0\ref\CezarioSifravimas Fixed.dll
